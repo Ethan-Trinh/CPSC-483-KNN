@@ -1,3 +1,3 @@
 # CPSC-483-KNN
-Author: Ethan Trinh
-Email: ektrinh@csu.fullerton.edu
+* Author: Ethan Trinh
+* Email: ektrinh@csu.fullerton.edu
